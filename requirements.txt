@@ -1,0 +1,6 @@
+numpy
+-U openmim
+mmcv==1.3.1
+Polygon
+Polygon3
+shapely
