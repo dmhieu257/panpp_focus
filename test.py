@@ -191,5 +191,5 @@ if __name__ == '__main__':
 #     parser.add_argument('--vis', action='store_true')
 #     parser.add_argument('--debug', action='store_true')
     args = parser.parse_args()
-    args.checkpoint = './checkpoints/pan_r18_ctw_finetune/checkpoint.pth.tar'
+    args.checkpoint = './checkpoints/pan_r18_ctwchina_finetune/checkpoint.pth.tar'
     main(args)
