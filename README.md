@@ -1,42 +1,4 @@
-1. Pull data to folder data
-
-    panpp_focus
-    └── data
-        ├── CTW1500
-        │   ├── train
-        │   │   ├── text_image
-        │   │   └── text_label_curve
-        │   └── test
-        │       ├── text_image
-        │       └── text_label_curve
-        ├── total_text
-        │   ├── Images
-        │   │   ├── Train
-        │   │   └── Test
-        │   └── Groundtruth
-        │       ├── Polygon
-        │       └── Rectangular
-        ├── ICDAR2015
-        │   └── Challenge4
-        │       ├── ch4_training_images
-        │       ├── ch4_training_localization_transcription_gt
-        │       ├── ch4_test_images
-        │       └── ch4_test_localization_transcription_gt
-        ├── MSRA-TD500
-        │   ├── train
-        │   └── test
-        ├── HUST-TR400
-        ├── COCO-Text
-        │   └── train2014
-        ├── SynthText
-        │   ├── 1
-        │   ├── ...
-        │   └── 200
-        └── ICDAR2017-MLT
-            ├── ch8_training_images
-            ├── ch8_validation_images
-            ├── ch8_training_localization_transcription_gt_v2
-            └── ch8_validation_localization_transcription_gt_v2
+1. Pull data to folder data follow by README.md in dataset folder
 
 2. Create conda anv
 
